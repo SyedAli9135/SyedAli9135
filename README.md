@@ -1,5 +1,15 @@
 # 💫About Me :
-I'm a Full-Stack Developer with hands-on experience in React, React-Native, Angular, Node, Express, Django Rest Framework, MongoDB, Neo4J Graph Databases, GraphQL, MySQL, PostGreSQL, AWS S3, Docker containerizing and maintaining online cloud deployed solutions
+Hi there! I'm a Software Engineer (Full Stack majorly focused on backend) passionate about building high-performance, scalable systems. My expertise spans Golang, Python, Node.js, and modern cloud-native technologies like Microservices, AWS Lambda, and Terraform.
+
+I love crafting efficient and robust backend architectures, whether it's for web, mobile, or deep learning applications. My focus is on optimizing performance, scalability, and reliability—leveraging cloud platforms like AWS and infrastructure-as-code tools like Terraform.
+
+💡 Key Areas of Interest:
+
+Scalable Backend Systems
+Microservices & Serverless Architectures
+Cloud Computing (AWS, GCP)
+Infrastructure as Code (Terraform)
+I'm always open to collaboration and contributions to innovative projects. Feel free to check out my repositories, and let’s build something awesome together! 🚀
 
 
 ## 🌐Socials
